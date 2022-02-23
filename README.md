@@ -1,2 +1,2 @@
 # Colors
- <img src="https://vk.com/doc223279282_629283571?hash=14e75e5de25b30e3c2&dl=eb94dbd156acb4a463"/>
+ <img src="https://psv4.userapi.com/c237231/u223279282/docs/d25/b0cdfc493284/Bez-imeni-1.gif?extra=4lavHCd9VflRpScnF-N71_XeERbZGIg3noKylq-9r9JDNS_BNvT6y68Ct6hmOVfyB8T5lD8bbI0Ei9yvVFTLHd91T_ctUHlJ4xklI7LiX9LjKT4zwqg-KWFMSaNQSBs8IZFI59BFZSrvVatIKVAUwund"/>
