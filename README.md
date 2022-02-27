@@ -1,2 +1,2 @@
 # Colors
-<img src="https://psv4.userapi.com/c237231/u223279282/docs/d25/b0cdfc493284/Bez-imeni-1.gif?extra=4lavHCd9VflRpScnF-N71_XeERbZGIg3noKylq-9r9JDNS_BNvT6y68Ct6hmOVfyB8T5lD8bbI0Ei9yvVFTLHd91T_ctUHlJ4xklI7LiX9LjKT4zwqg-KWFMSaNQSBs8IZFI59BFZSrvVatIKVAUwund" width="30%" height="30%"/>
+<img src="https://mail.google.com/mail/u/0?ui=2&ik=ae673b22ef&attid=0.1&permmsgid=msg-a:r709017597208617152&th=17f3a0070f501495&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-b3KxWchDrXGBNr-NAypgEnLK6E1f10sSKhqf3_UaMESH2tfNqRg5Uq0NjC3AQAmNe0z5zh2uQXNmdSjIFn2DHk85zzuSFoG1H-rd4DyeivrgiwcAZHOLDYy8&disp=emb&realattid=ii_l04xhqap0" width="30%" height="30%"/>
