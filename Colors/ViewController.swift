@@ -24,9 +24,9 @@ class ViewController: UIViewController {
         self.view.backgroundColor = colors.randomElement()!
     }
     
-    @IBAction func redButton(_ sender: Any) {
+    @IBAction func redButton(_ sender: Any) {   //Сделать через кейс
         self.view.backgroundColor = UIColor.red
-    }
+    }                                  
     @IBAction func greenButton(_ sender: Any) {
         self.view.backgroundColor = UIColor.green
     }
