@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
     
     @IBAction func colorButton(_ sender: Any) {
-        let colors   = [  //Без двойной табуляции не хотело билдится
+        let colors = [  
             UIColor.red,
             UIColor.blue,
             UIColor.green,
