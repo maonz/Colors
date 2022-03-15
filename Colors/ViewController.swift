@@ -8,7 +8,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -33,11 +32,6 @@ class ViewController: UIViewController {
     }
     @IBAction func whiteButton(_ sender: Any) {
         self.view.backgroundColor = UIColor.white
-    }
-    
-        
-
-    
-    
+    }       
 }
 
