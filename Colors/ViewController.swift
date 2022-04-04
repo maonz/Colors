@@ -25,13 +25,13 @@ class ViewController: UIViewController {
     }
     
     @IBAction func redButton(_ sender: Any) {   //Сделать через кейс
-        self.view.backgroundColor = UIColor.red
+        view.backgroundColor = UIColor.red
     }                                  
     @IBAction func greenButton(_ sender: Any) {
-        self.view.backgroundColor = UIColor.green
+        view.backgroundColor = UIColor.green
     }
     @IBAction func whiteButton(_ sender: Any) {
-        self.view.backgroundColor = UIColor.white
+        view.backgroundColor = UIColor.white
     }       
 }
 
